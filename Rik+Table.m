@@ -7,7 +7,7 @@
 
 @implementation Rik(RikTable)
 
-
+/*
 typedef enum {
   GSTabSelectedLeft,
   GSTabSelectedRight,
@@ -20,6 +20,7 @@ typedef enum {
   GSTabUnSelectedFill,
   GSTabBackgroundFill
 } GSTabPart;
+*/
 
 - (NSRect) tableHeaderCellDrawingRectForBounds: (NSRect)theRect
 {
